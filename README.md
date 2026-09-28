@@ -1,11 +1,13 @@
 <div align="center">
 
+<a href="https://www.linkedin.com/in/adarshbabumk"><img src="https://raw.githubusercontent.com/adarshbabumk1/adarshbabumk1/main/profile.jpg" alt="Adarsh - Tech Lead in SAP Integration" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #008FD3; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" /></a>
+
 # Hi there, I'm **Adarsh** 👋
-### **Tech Lead in SAP Integration & BTP Specialist**
+### **Tech Lead in SAP Integration**
 #### *Enterprise Application Integration • SAP Integration Suite • SAP PO/PI • Event-Driven Architecture • API Management*
 
 <p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/adarshbabumk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://community.sap.com/"><img src="https://img.shields.io/badge/SAP_Community-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Community" /></a>
   <a href="mailto:adarshbabumk1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=adarshbabumk1&label=PROFILE+VIEWS&style=for-the-badge&color=008FD3" alt="Profile Views" />
@@ -195,9 +197,9 @@ Explore my deep-dive sample repositories designed as comprehensive architectural
 
 ## 💬 Connect With Me
 
-* 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/)
+* 💼 **LinkedIn:** [Connect with Adarsh on LinkedIn](https://www.linkedin.com/in/adarshbabumk)
 * 🌐 **SAP Community:** [View SAP Blogs & Solutions](https://community.sap.com/)
-* 📧 **Email:** [adarshbabumk1@gmail.com](mailto:adarshbabumk1@gmail.com)
+* 📧 **Email:** [Send Email directly to Adarsh](mailto:adarshbabumk1@gmail.com)
 * 💡 *Always open to discussing Enterprise Integration Strategy, SAP PO-to-CPI migrations, and Event-Driven Architecture.*
 
 <div align="center">
