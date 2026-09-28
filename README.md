@@ -13,19 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=adarshbabumk1&label=PROFILE+VIEWS&style=for-the-badge&color=008FD3" alt="Profile Views" />
 </p>
 
+</div>
+
 ---
 
 ```yaml
-title:           "Tech Lead in SAP Integration"
-experience:      "10+ Years Delivering Mission-Critical Enterprise Integration Solutions"
-cloud_stack:     ["SAP BTP Integration Suite", "Cloud Integration (CPI)", "API Management", "SAP Event Mesh"]
-on_prem_stack:   ["SAP PO 7.4 / 7.5 Single-Stack (Java AEX)", "NetWeaver BPM", "SAP S/4HANA & ECC 6.0"]
-standard_adapters: ["SOAP", "RFC", "IDoc", "JDBC", "ABAP Proxy", "REST/JSON", "SFTP", "AS2 / EDI"]
+title:             "Tech Lead in SAP Integration"
+experience:        "10+ Years Delivering Mission-Critical Enterprise Integration Solutions"
+cloud_stack:       ["SAP BTP Integration Suite", "Cloud Integration (CPI)", "API Management", "SAP Event Mesh"]
+on_prem_stack:     ["SAP PO 7.4 / 7.5 Single-Stack (Java AEX)", "NetWeaver BPM", "SAP S/4HANA & ECC 6.0"]
+standard_adapters: ["SOAP", "RFC", "IDoc", "OData (v2/v4)", "HTTP/HTTPS", "REST/JSON", "ProcessDirect", "JDBC", "ABAP Proxy", "SFTP", "AMQP", "JMS", "Mail", "AS2 / EDI"]
 ```
 
 ---
-
-</div>
 
 ## 📌 Executive Summary
 
@@ -33,9 +33,9 @@ I am a **Tech Lead in SAP Integration** with over 10 years of extensive experien
 
 My technical leadership spans the complete integration lifecycle:
 * **SAP Integration Suite:** Modernizing enterprise landscapes using Cloud Integration (CPI), API Management (APIM), SAP Event Mesh, Open Connectors, and Integration Advisor.
-* **SAP Process Orchestration (Java Single-Stack):** Hands-on architecture, development, and administration of **SAP PO 7.4 and 7.5 Single-Stack (Java AEX / NetWeaver BPM)**. Specialized in ESR, Integration Directory (ICO), Java User-Defined Functions (UDFs), and Async-Sync bridges across thousands of interfaces.
-* **PO to Cloud Integration Modernization:** Strategy and artifact modernization (ICOs to iFlows, RFC/IDoc to OData/REST, Java UDFs to Groovy Script Collections, and cloud migrations including Azure-hosted PO landscapes).
-* **Standard Industry Protocols & Adapters:** Expert-level mastery of standard adapters across SAP Integration Suite and SAP PO, including **SOAP, RFC, IDoc, JDBC, ABAP Proxy, HTTP/REST, SFTP, and AS2 / EDI (ANSI X12 / EDIFACT)**.
+* **SAP Process Orchestration (Java Single-Stack):** Hands-on architecture, development, and administration of **SAP PO 7.4 and 7.5 Single-Stack (Java AEX / NetWeaver BPM)**. Specialized in ESR, Integration Directory (ICO), Java User-Defined Functions (UDFs), and Async-Sync bridges.
+* **PO to Cloud Integration Modernization:** Strategy and artifact modernization (ICOs to iFlows, RFC/IDoc to OData/REST, Java UDFs to Groovy Script Collections, and cloud migrations including GCP-hosted PO landscapes).
+* **Standard Industry Protocols & Adapters:** Expert-level mastery of standard adapters across SAP Integration Suite and SAP PO, including **SOAP, RFC, IDoc, OData (v2/v4), HTTP/HTTPS, REST/JSON, ProcessDirect, JDBC, ABAP Proxy, SFTP, AMQP, JMS, Mail, and AS2 / EDI (ANSI X12 / EDIFACT)**.
 
 ---
 
@@ -70,11 +70,16 @@ My technical leadership spans the complete integration lifecycle:
       <img src="https://img.shields.io/badge/SOAP_/_WSDL-5C6BC0?style=flat-square&logo=soap&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_RFC-0072C6?style=flat-square&logo=sap&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_IDoc-008FD3?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/OData_v2/v4-673AB7?style=flat-square&logo=odata&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTTP_/_HTTPS-009688?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_/_JSON-009688?style=flat-square&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/ProcessDirect-008FD3?style=flat-square&logo=sap&logoColor=white" />
       <img src="https://img.shields.io/badge/JDBC_Adapter-455A64?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/ABAP_Proxy-F08B00?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_/_JSON-009688?style=flat-square&logo=json&logoColor=white" />
-      <img src="https://img.shields.io/badge/OData_v2/v4-673AB7?style=flat-square&logo=odata&logoColor=white" />
       <img src="https://img.shields.io/badge/SFTP-3E2723?style=flat-square&logo=ssh&logoColor=white" />
+      <img src="https://img.shields.io/badge/AMQP_(Event_Mesh)-FF6F00?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/JMS_Queuing-E65100?style=flat-square&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mail_Adapter-D14836?style=flat-square&logo=gmail&logoColor=white" />
       <img src="https://img.shields.io/badge/AS2_/_EDI-1B5E20?style=flat-square&logo=files&logoColor=white" />
     </td>
   </tr>
@@ -94,7 +99,7 @@ My technical leadership spans the complete integration lifecycle:
     <td width="78%">
       <img src="https://img.shields.io/badge/OAuth_2.0_/_mTLS-D32F2F?style=flat-square&logo=openid&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_Cloud_Connector-008FD3?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
@@ -168,11 +173,11 @@ Explore my technical reference repositories:
 
 | Dimension | SAP PO 7.4 / 7.5 Single-Stack (Java AEX) | Modern SAP Integration Suite (CPI / APIM / Event Mesh) |
 | :--- | :--- | :--- |
-| **Hosting Model** | On-Premises / Hyperscaler IaaS (e.g. Azure-hosted Java AEX) | Managed Multi-Cloud (BTP Cloud Foundry / Hyperscalers) |
+| **Hosting Model** | On-Premises / Hyperscaler IaaS (e.g. GCP-hosted Java AEX) | Managed Multi-Cloud (BTP Cloud Foundry / Hyperscalers) |
 | **Configuration Model**| ESR (Interfaces, Mappings) + Integration Directory (ICOs, Channels) | Unified Web Studio (`Design -> Discover -> Monitor`) with BPMN2 iFlows |
 | **Custom Code** | Java User-Defined Functions (UDFs) | Apache Groovy 2.4/3.0, JavaScript, and Reusable Script Collections |
 | **Routing Pattern** | In-Memory XPath Receiver & Interface Determination | Router steps, Content Modifier, Multicast, Dynamic ProcessDirect |
-| **Standard Adapters** | IDoc_AAE, RFC, SOAP, JDBC, File (FCC), REST, Mail, AS2 | IDoc, RFC, SOAP, JDBC, OData, SFTP, HTTP/REST, AMQP, AS2 |
+| **Standard Adapters** | IDoc_AAE, RFC, SOAP, JDBC, File (FCC), REST, Mail, AS2 | IDoc, RFC, SOAP, OData, ProcessDirect, HTTP/REST, JDBC, SFTP, AMQP, JMS, Mail, AS2 |
 | **API Governance** | Basic REST Adapter | Dedicated API Management with API Portal, Policies & Developer Portal |
 | **Eventing Model** | Polling JDBC/File adapters or IDoc queues | Asynchronous Pub/Sub with SAP Event Mesh (CNCF CloudEvents) |
 | **Persistence / Queuing**| Java AEX Message Store, JMS Adapter, XI Message DB | Data Store (Global/Local), Variables, and Managed Cloud JMS Queues |
