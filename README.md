@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm **Adarsh** 👋
-### **SAP Integration Architect & BTP Specialist**
+### **Tech Lead in SAP Integration & BTP Specialist**
 #### *Enterprise Application Integration • SAP Integration Suite • SAP PO/PI • Event-Driven Architecture • API Management*
 
 <p align="center">
@@ -26,7 +26,7 @@ core_philosophy: "Decoupled, Resilient, Event-Driven & API-First Enterprise Arch
 
 ## 📌 Executive Summary
 
-I am an **Enterprise Integration Architect & Senior Consultant** with extensive experience designing and implementing mission-critical integration solutions connecting **SAP (S/4HANA, ECC, SuccessFactors, Ariba, C4C)** and **Non-SAP (Salesforce, ServiceNow, Workday, Third-Party Banks, Logistics Providers)** systems.
+I am a **Tech Lead in SAP Integration** with extensive experience designing and implementing mission-critical integration solutions connecting **SAP (S/4HANA, ECC, SuccessFactors, Ariba, C4C)** and **Non-SAP (Salesforce, ServiceNow, Workday, Third-Party Banks, Logistics Providers)** systems.
 
 My expertise spans the entire integration lifecycle:
 * **SAP Integration Suite (BTP):** Cloud Integration (CPI), API Management (APIM), SAP Event Mesh / Advanced Event Mesh, Open Connectors, Integration Advisor (MAG/MIG).
@@ -201,5 +201,5 @@ Explore my deep-dive sample repositories designed as comprehensive architectural
 * 💡 *Always open to discussing Enterprise Integration Strategy, SAP PO-to-CPI migrations, and Event-Driven Architecture.*
 
 <div align="center">
-  <sub>Designed with ❤️ for Enterprise Integration Architects and the SAP Community</sub>
+  <sub>Designed with ❤️ for SAP Integration Professionals and the SAP Community</sub>
 </div>
