@@ -4,7 +4,7 @@
 
 # Hi there, I'm **Adarsh** 👋
 ### **Tech Lead in SAP Integration**
-#### *Enterprise Application Integration • SAP Integration Suite • SAP PO/PI • Event-Driven Architecture • API Management*
+#### *10+ Years Experience • SAP Integration Suite • SAP PO 7.4 / 7.5 (Single-Stack Java AEX) • Cloud Integration • Event-Driven Architecture*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshbabumk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,10 +16,11 @@
 ---
 
 ```yaml
-specialization: "Hybrid Enterprise Integration & Cloud Modernization"
-cloud_stack:    ["SAP BTP Integration Suite", "Cloud Integration (CPI)", "API Management", "SAP Event Mesh"]
-on_prem_stack:  ["SAP PO/PI 7.5 (Single-Stack AEX)", "SAP PI Dual-Stack", "SAP S/4HANA & ECC 6.0"]
-core_philosophy: "Decoupled, Resilient, Event-Driven & API-First Enterprise Architecture"
+title:           "Tech Lead in SAP Integration"
+experience:      "10+ Years Delivering Mission-Critical Enterprise Integration Solutions"
+cloud_stack:     ["SAP BTP Integration Suite", "Cloud Integration (CPI)", "API Management", "SAP Event Mesh"]
+on_prem_stack:   ["SAP PO 7.4 / 7.5 Single-Stack (Java AEX)", "NetWeaver BPM", "SAP S/4HANA & ECC 6.0"]
+standard_adapters: ["SOAP", "RFC", "IDoc", "JDBC", "ABAP Proxy", "REST/JSON", "SFTP", "AS2 / EDI"]
 ```
 
 ---
@@ -28,13 +29,13 @@ core_philosophy: "Decoupled, Resilient, Event-Driven & API-First Enterprise Arch
 
 ## 📌 Executive Summary
 
-I am a **Tech Lead in SAP Integration** with extensive experience designing and implementing mission-critical integration solutions connecting **SAP (S/4HANA, ECC, SuccessFactors, Ariba, C4C)** and **Non-SAP (Salesforce, ServiceNow, Workday, Third-Party Banks, Logistics Providers)** systems.
+I am a **Tech Lead in SAP Integration** with over 10 years of extensive experience designing, developing, and managing mission-critical enterprise integration solutions. I specialize in orchestrating end-to-end data flows connecting **SAP core systems (S/4HANA, ECC, Ariba)** and **Non-SAP platforms (Salesforce, Third-Party Banks, Logistics & Supply Chain Providers)**.
 
-My expertise spans the entire integration lifecycle:
-* **SAP Integration Suite (BTP):** Cloud Integration (CPI), API Management (APIM), SAP Event Mesh / Advanced Event Mesh, Open Connectors, Integration Advisor (MAG/MIG).
-* **Legacy SAP PO/PI:** Architecture & administration of SAP PI 7.1/7.31/7.4 Dual-Stack and SAP PO 7.5 Single-Stack (Java AEX / NW BPM).
-* **PO/PI to Cloud Integration Migration:** Strategy, end-to-end artifact modernization (ICOs to iFlows, RFC/IDoc to OData/REST, UDFs to Groovy/Script Collections, Directory API automation).
-* **Event-Driven & API-First Architecture:** CloudEvents standard, AsyncAPI, webhook consumers, OAuth 2.0 security policies, and high-throughput queuing.
+My technical leadership spans the complete integration lifecycle:
+* **SAP Integration Suite:** Modernizing enterprise landscapes using Cloud Integration (CPI), API Management (APIM), SAP Event Mesh, Open Connectors, and Integration Advisor.
+* **SAP Process Orchestration (Java Single-Stack):** Hands-on architecture, development, and administration of **SAP PO 7.4 and 7.5 Single-Stack (Java AEX / NetWeaver BPM)**. Specialized in ESR, Integration Directory (ICO), Java User-Defined Functions (UDFs), and Async-Sync bridges across thousands of interfaces.
+* **PO to Cloud Integration Modernization:** Strategy and artifact modernization (ICOs to iFlows, RFC/IDoc to OData/REST, Java UDFs to Groovy Script Collections, and cloud migrations including Azure-hosted PO landscapes).
+* **Standard Industry Protocols & Adapters:** Expert-level mastery of standard adapters across SAP Integration Suite and SAP PO, including **SOAP, RFC, IDoc, JDBC, ABAP Proxy, HTTP/REST, SFTP, and AS2 / EDI (ANSI X12 / EDIFACT)**.
 
 ---
 
@@ -42,66 +43,58 @@ My expertise spans the entire integration lifecycle:
 
 <table>
   <tr>
-    <td width="20%" valign="top"><strong>Cloud Integration</strong></td>
-    <td width="80%">
+    <td width="22%" valign="top"><strong>Cloud Integration</strong></td>
+    <td width="78%">
       <img src="https://img.shields.io/badge/SAP_Integration_Suite-008FD3?style=flat-square&logo=sap&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloud_Integration_(CPI)-0A66C2?style=flat-square&logo=cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Open_Connectors-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Integration_Advisor-005A9E?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/SAP_BTP_Cloud_Foundry-0294FF?style=flat-square&logo=sap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>API & Event Mesh</strong></td>
-    <td width="80%">
       <img src="https://img.shields.io/badge/SAP_API_Management-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_Event_Mesh-FF6F00?style=flat-square&logo=apachekafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/SAP_Advanced_Event_Mesh-E65100?style=flat-square&logo=apachekafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAPI_3.0-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-      <img src="https://img.shields.io/badge/CloudEvents_1.0-4527A0?style=flat-square&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Open_Connectors-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Integration_Advisor-005A9E?style=flat-square&logo=sap&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><strong>Legacy SAP PO / PI</strong></td>
-    <td width="80%">
-      <img src="https://img.shields.io/badge/SAP_PO_7.5_(AEX)-004D40?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/SAP_PI_Dual--Stack-37474F?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/NetWeaver_BPM-00796B?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Enterprise_Services_Repository-263238?style=flat-square&logo=sap&logoColor=white" />
+    <td width="22%" valign="top"><strong>SAP PO (Java Single-Stack)</strong></td>
+    <td width="78%">
+      <img src="https://img.shields.io/badge/SAP_PO_7.5_(Java_AEX)-004D40?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/SAP_PO_7.4_(Java_AEX)-00796B?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/NetWeaver_BPM-004D40?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Enterprise_Services_Repository_(ESR)-263238?style=flat-square&logo=sap&logoColor=white" />
       <img src="https://img.shields.io/badge/Integration_Directory_(ICO)-1A237E?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/SLD_%26_NWA-37474F?style=flat-square&logo=sap&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><strong>Protocols & Adapters</strong></td>
-    <td width="80%">
-      <img src="https://img.shields.io/badge/OData_v2/v4-673AB7?style=flat-square&logo=odata&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST/JSON-009688?style=flat-square&logo=json&logoColor=white" />
-      <img src="https://img.shields.io/badge/SOAP/WSDL-5C6BC0?style=flat-square&logo=soap&logoColor=white" />
-      <img src="https://img.shields.io/badge/SAP_IDoc-008FD3?style=flat-square&logo=sap&logoColor=white" />
+    <td width="22%" valign="top"><strong>Standard Adapters & Protocols</strong></td>
+    <td width="78%">
+      <img src="https://img.shields.io/badge/SOAP_/_WSDL-5C6BC0?style=flat-square&logo=soap&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_RFC-0072C6?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/AMQP_/_MQTT-E65100?style=flat-square&logo=rabbitmq&logoColor=white" />
-      <img src="https://img.shields.io/badge/SFTP_/_AS2-3E2723?style=flat-square&logo=ssh&logoColor=white" />
-      <img src="https://img.shields.io/badge/JMS_Queuing-FF8F00?style=flat-square&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/SAP_IDoc-008FD3?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/JDBC_Adapter-455A64?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/ABAP_Proxy-F08B00?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_/_JSON-009688?style=flat-square&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/OData_v2/v4-673AB7?style=flat-square&logo=odata&logoColor=white" />
+      <img src="https://img.shields.io/badge/SFTP-3E2723?style=flat-square&logo=ssh&logoColor=white" />
+      <img src="https://img.shields.io/badge/AS2_/_EDI-1B5E20?style=flat-square&logo=files&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><strong>Languages & Scripting</strong></td>
-    <td width="80%">
-      <img src="https://img.shields.io/badge/Apache_Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" />
+    <td width="22%" valign="top"><strong>Languages & Transformation</strong></td>
+    <td width="78%">
       <img src="https://img.shields.io/badge/Java_UDFs-007396?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/XSLT_1.0/2.0/3.0-FF6600?style=flat-square&logo=xml&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/ABAP_Basics-F08B00?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" />
+      <img src="https://img.shields.io/badge/XSLT_2.0/3.0-FF6600?style=flat-square&logo=xml&logoColor=white" />
+      <img src="https://img.shields.io/badge/Graphical_Mapping-005A9E?style=flat-square&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/XML_%2F_XSD_%2F_WSDL-FF6F00?style=flat-square&logo=xml&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI_3.0-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><strong>Security & Operations</strong></td>
-    <td width="80%">
+    <td width="22%" valign="top"><strong>Security & Cloud Platforms</strong></td>
+    <td width="78%">
       <img src="https://img.shields.io/badge/OAuth_2.0_/_mTLS-D32F2F?style=flat-square&logo=openid&logoColor=white" />
       <img src="https://img.shields.io/badge/SAP_Cloud_Connector-008FD3?style=flat-square&logo=sap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keystore_Management-607D8B?style=flat-square&logo=letsencrypt&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI/CD_Project_Piper-0288D1?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
@@ -109,50 +102,50 @@ My expertise spans the entire integration lifecycle:
 
 ---
 
-## 🏛️ Hybrid Enterprise Architecture Blueprint
+## 🏛️ Enterprise Architecture Blueprint
 
 ```mermaid
 flowchart TB
-    subgraph S4["🏢 On-Premises & Core ERP"]
+    subgraph S4["🏢 Core ERP & Enterprise Systems"]
         direction TB
-        ERP["SAP S/4HANA / ECC"]
-        PO["Legacy SAP PO 7.5\n(Dual/Single Stack AEX)"]
-        CC["SAP Cloud Connector\n(Secure Reverse Tunnel)"]
-        ERP <-->|IDoc / RFC / SOAP| PO
-        ERP <-->|OData / BAPI / IDoc| CC
+        ERP["SAP S/4HANA / ECC / Ariba"]
+        PO["SAP PO 7.4 / 7.5\n(Single-Stack Java AEX)"]
+        CC["SAP Cloud Connector\n(Secure TLS Tunnel)"]
+        ERP <-->|IDoc / RFC / ABAP Proxy| PO
+        ERP <-->|OData / BAPI / RFC| CC
     end
 
     subgraph BTP["☁️ SAP Business Technology Platform (Integration Suite)"]
         direction TB
         subgraph APIM["🛡️ API Management Gateway"]
-            APIGW["API Portal & Gateway\n• Spike Arrest & Quota\n• OAuth 2.0 / JWT Verification\n• API-Led Decoupling"]
+            APIGW["API Portal & Gateway\n• Spike Arrest & Quota\n• OAuth 2.0 / JWT Verification\n• Governed Enterprise APIs"]
         end
 
         subgraph CPI["⚙️ Cloud Integration (CPI)"]
-            IFLOW["Modular Integration Flows (iFlows)\n• Process Direct Chaining\n• Groovy & XSLT Transformations\n• Idempotent JMS Queuing\n• Dead-Letter Queue (DLQ)"]
+            IFLOW["Integration Flows (iFlows)\n• ProcessDirect Decoupling\n• Groovy & XSLT Transformations\n• Idempotent JMS Queuing\n• Standard Exception Subprocess"]
         end
 
-        subgraph AEM["⚡ SAP Event Mesh / Solace AEM"]
-            TOPIC["Enterprise Topic Hierarchy\nsap/s4/events/businesspartner/*"]
-            QUEUE["Reliable Buffering Queues\n(AMQP 1.0 / MQTT / Webhooks)"]
+        subgraph EM["⚡ SAP Event Mesh"]
+            TOPIC["Enterprise Topic Hierarchy\nsap/events/businesspartner/*"]
+            QUEUE["Reliable Buffering Queues\n(AMQP 1.0 / Webhooks)"]
             TOPIC --> QUEUE
         end
     end
 
-    subgraph CLOUD_TARGETS["🌐 Ecosystem & SaaS Endpoints"]
+    subgraph TARGETS["🌐 External Ecosystem & Business Partners"]
         SFDC["Salesforce CRM"]
-        SNOW["ServiceNow"]
-        BANK["Banking & Swift APIs"]
+        LOGISTICS["Logistics & Supply Chain\n(FedEx, Blue Yonder)"]
+        BANK["Banking & Payment APIs"]
         B2B["EDI Trading Partners (AS2)"]
     end
 
-    CC <==>|Encrypted TLS Tunnel| CPI
-    ERP -.->|Outbox Pattern Events| TOPIC
+    CC <==>|Encrypted Tunnel| CPI
+    ERP -.->|Outbox CloudEvents| TOPIC
     QUEUE ==>|Push Subscription| IFLOW
     APIGW ==>|Governed Proxy Pass| IFLOW
-    IFLOW <==>|REST / JSON| SFDC
-    IFLOW <==>|OData / Webhook| SNOW
-    IFLOW <==>|ISO20022 / MT103| BANK
+    IFLOW <==>|SOAP / RFC / REST| SFDC
+    IFLOW <==>|REST / Proxy / IDoc| LOGISTICS
+    IFLOW <==>|ISO 20022 / MT103| BANK
     IFLOW <==>|EDIFACT / AS2| B2B
 ```
 
@@ -160,29 +153,30 @@ flowchart TB
 
 ## 📂 Featured Enterprise Showcase Repositories
 
-Explore my deep-dive sample repositories designed as comprehensive architectural references:
+Explore my technical reference repositories:
 
 | Repository | Focus Area | Key Concepts Demonstrated | Direct Link |
 | :--- | :--- | :--- | :--- |
-| 🚀 **[SAP_CPI](https://github.com/adarshbabumk1/SAP_CPI)** | **SAP CPI vs PO/PI** | Complete migration matrix, Java UDF to Groovy 3.0 conversion, XSLT 3.0, dynamic routing, exception subprocess framework, and reusable iFlow templates. | [Explore Repo →](https://github.com/adarshbabumk1/SAP_CPI) |
-| 🛡️ **[sap-api-management-enterprise-hub](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub)** | **API Management** | Production policy bundles (SpikeArrest, Quota, OAuth2, CORS), OpenAPI 3.0 specs, JWT token extraction, and API-led mediation architecture. | [Explore Repo →](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub) |
-| ⚡ **[sap-event-mesh-eda-showcase](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase)** | **Event-Driven Architecture** | CloudEvents 1.0 schema compliance, AMQP 1.0 pub/sub simulator, idempotent receiver pattern, DLQ management, and S/4HANA event triggers. | [Explore Repo →](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase) |
-| 🏛️ **[SAP-PO](https://github.com/adarshbabumk1/SAP-PO)** | **SAP PO / PI 7.5** | Classical dual/single stack AEX patterns, File Content Conversion (FCC) cheat-sheet, Java UDF library (Context/Queue cache, RFC lookups), and ICO design. | [Explore Repo →](https://github.com/adarshbabumk1/SAP-PO) |
+| 🚀 **[SAP_CPI](https://github.com/adarshbabumk1/SAP_CPI)** | **Cloud Integration & Migration** | Migration assessment principles, Java UDF to Groovy 3.0 conversion, XSLT 3.0 IDoc-to-JSON, dynamic routing, exception subprocess framework, and realistic test payloads. | [Explore Repo →](https://github.com/adarshbabumk1/SAP_CPI) |
+| 🛡️ **[sap-api-management-enterprise-hub](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub)** | **API Management** | Production gateway policy bundles (SpikeArrest, Quota, OAuth2, CORS), OpenAPI 3.0 S/4HANA specs, JWT claim extraction, and generic target connections. | [Explore Repo →](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub) |
+| ⚡ **[sap-event-mesh-eda-showcase](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase)** | **Event-Driven Architecture** | CNCF CloudEvents 1.0 specifications, AMQP 1.0 pub/sub simulator, idempotent receiver deduplication, and S/4HANA transactional outbox patterns. | [Explore Repo →](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase) |
+| 🏛️ **[SAP-PO](https://github.com/adarshbabumk1/SAP-PO)** | **SAP PO 7.4 / 7.5 (Single-Stack Java AEX)** | Java AEX ICO governance, File Content Conversion (FCC) cheat-sheets, Java UDF library (ASMA DynamicConfiguration, RFC Lookup, Base64), and BAPI testing data. | [Explore Repo →](https://github.com/adarshbabumk1/SAP-PO) |
 
 ---
 
-## 🔄 Quick Architectural Comparison: SAP PO/PI vs. SAP Integration Suite
+## 🔄 Architectural Comparison: SAP PO 7.4/7.5 Single-Stack vs. SAP Integration Suite
 
-| Dimension | Legacy SAP PO/PI 7.5 | Modern SAP Integration Suite (CPI / APIM / Event Mesh) |
+| Dimension | SAP PO 7.4 / 7.5 Single-Stack (Java AEX) | Modern SAP Integration Suite (CPI / APIM / Event Mesh) |
 | :--- | :--- | :--- |
-| **Hosting Model** | On-Premises (Dual-Stack ABAP+Java or Single-Stack Java AEX) | Multi-cloud Cloud Foundry / Hyperscaler managed (BTP) |
-| **Configuration Model**| ESR (Interfaces, Mappings) + Integration Directory (ICOs, Channels) | Unified Web Studio (`Design -> Discover -> Monitor`) with iFlow BPMN2 |
-| **Custom Code** | Java User-Defined Functions (UDFs) & Java Adapter Modules | Apache Groovy 2.4/3.0, JavaScript, and Reusable Script Collections |
-| **Routing Pattern** | XPath Receiver Determination & Interface Determination | Router steps, Content Modifier, Multicast, Dynamic ProcessDirect |
-| **API Governance** | Basic REST Adapter (HTTP Basic Auth or custom certificates) | Dedicated API Management with API Designer, Policies, & Developer Portal |
-| **Eventing Model** | Polling JDBC/File adapters or IDoc queues (Synchronous/Asynchronous) | True Event-Driven Pub/Sub with SAP Event Mesh / Solace AEM (CloudEvents) |
-| **Persistence / Queuing**| Persistent Message Store (MS), JMS Adapter, XI Message DB | Data Store (Global/Local), Variables, and Managed Cloud JMS Queues |
-| **Hybrid Connectivity** | Reverse Proxy / DMZ SAP Web Dispatcher / VPN tunnels | Secure outbound-initiated TLS tunnel via **SAP Cloud Connector** |
+| **Hosting Model** | On-Premises / Hyperscaler IaaS (e.g. Azure-hosted Java AEX) | Managed Multi-Cloud (BTP Cloud Foundry / Hyperscalers) |
+| **Configuration Model**| ESR (Interfaces, Mappings) + Integration Directory (ICOs, Channels) | Unified Web Studio (`Design -> Discover -> Monitor`) with BPMN2 iFlows |
+| **Custom Code** | Java User-Defined Functions (UDFs) | Apache Groovy 2.4/3.0, JavaScript, and Reusable Script Collections |
+| **Routing Pattern** | In-Memory XPath Receiver & Interface Determination | Router steps, Content Modifier, Multicast, Dynamic ProcessDirect |
+| **Standard Adapters** | IDoc_AAE, RFC, SOAP, JDBC, File (FCC), REST, Mail, AS2 | IDoc, RFC, SOAP, JDBC, OData, SFTP, HTTP/REST, AMQP, AS2 |
+| **API Governance** | Basic REST Adapter | Dedicated API Management with API Portal, Policies & Developer Portal |
+| **Eventing Model** | Polling JDBC/File adapters or IDoc queues | Asynchronous Pub/Sub with SAP Event Mesh (CNCF CloudEvents) |
+| **Persistence / Queuing**| Java AEX Message Store, JMS Adapter, XI Message DB | Data Store (Global/Local), Variables, and Managed Cloud JMS Queues |
+| **Hybrid Connectivity** | Reverse Proxy / DMZ SAP Web Dispatcher / VPN | Secure outbound-initiated TLS reverse tunnel via **SAP Cloud Connector** |
 
 ---
 
@@ -198,10 +192,10 @@ Explore my deep-dive sample repositories designed as comprehensive architectural
 ## 💬 Connect With Me
 
 * 💼 **LinkedIn:** [Connect with Adarsh on LinkedIn](https://www.linkedin.com/in/adarshbabumk)
-* 🌐 **SAP Community:** [View SAP Blogs & Solutions](https://community.sap.com/)
+* 🌐 **SAP Community:** [View SAP Community](https://community.sap.com/)
 * 📧 **Email:** [Send Email directly to Adarsh](mailto:adarshbabumk1@gmail.com)
 * 💡 *Always open to discussing Enterprise Integration Strategy, SAP PO-to-CPI migrations, and Event-Driven Architecture.*
 
 <div align="center">
-  <sub>Designed with ❤️ for SAP Integration Professionals and the SAP Community</sub>
+  <sub>Designed with ❤️ for SAP Integration Professionals and the Community</sub>
 </div>
