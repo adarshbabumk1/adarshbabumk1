@@ -162,10 +162,10 @@ Explore my deep-dive sample repositories designed as comprehensive architectural
 
 | Repository | Focus Area | Key Concepts Demonstrated | Direct Link |
 | :--- | :--- | :--- | :--- |
-| 🚀 **[sap-cpi-pipo-migration-blueprints](projects/01-sap-cpi-pipo-migration-blueprints)** | **SAP CPI vs PO/PI** | Complete migration matrix, Java UDF to Groovy 3.0 conversion, XSLT 3.0, dynamic routing, exception subprocess framework, and reusable iFlow templates. | [Explore Repo →](projects/01-sap-cpi-pipo-migration-blueprints) |
-| 🛡️ **[sap-api-management-enterprise-hub](projects/02-sap-api-management-enterprise-hub)** | **API Management** | Production policy bundles (SpikeArrest, Quota, OAuth2, CORS), OpenAPI 3.0 specs, JWT token extraction, and API-led mediation architecture. | [Explore Repo →](projects/02-sap-api-management-enterprise-hub) |
-| ⚡ **[sap-event-mesh-eda-showcase](projects/03-sap-event-mesh-eda-showcase)** | **Event-Driven Architecture** | CloudEvents 1.0 schema compliance, AMQP 1.0 pub/sub simulator, idempotent receiver pattern, DLQ management, and S/4HANA event triggers. | [Explore Repo →](projects/03-sap-event-mesh-eda-showcase) |
-| 🏛️ **[sap-pipo-legacy-reference](projects/04-sap-pipo-legacy-reference)** | **SAP PO / PI 7.5** | Classical dual/single stack AEX patterns, File Content Conversion (FCC) cheat-sheet, Java UDF library (Context/Queue cache, RFC lookups), and ICO design. | [Explore Repo →](projects/04-sap-pipo-legacy-reference) |
+| 🚀 **[SAP_CPI](https://github.com/adarshbabumk1/SAP_CPI)** | **SAP CPI vs PO/PI** | Complete migration matrix, Java UDF to Groovy 3.0 conversion, XSLT 3.0, dynamic routing, exception subprocess framework, and reusable iFlow templates. | [Explore Repo →](https://github.com/adarshbabumk1/SAP_CPI) |
+| 🛡️ **[sap-api-management-enterprise-hub](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub)** | **API Management** | Production policy bundles (SpikeArrest, Quota, OAuth2, CORS), OpenAPI 3.0 specs, JWT token extraction, and API-led mediation architecture. | [Explore Repo →](https://github.com/adarshbabumk1/sap-api-management-enterprise-hub) |
+| ⚡ **[sap-event-mesh-eda-showcase](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase)** | **Event-Driven Architecture** | CloudEvents 1.0 schema compliance, AMQP 1.0 pub/sub simulator, idempotent receiver pattern, DLQ management, and S/4HANA event triggers. | [Explore Repo →](https://github.com/adarshbabumk1/sap-event-mesh-eda-showcase) |
+| 🏛️ **[SAP-PO](https://github.com/adarshbabumk1/SAP-PO)** | **SAP PO / PI 7.5** | Classical dual/single stack AEX patterns, File Content Conversion (FCC) cheat-sheet, Java UDF library (Context/Queue cache, RFC lookups), and ICO design. | [Explore Repo →](https://github.com/adarshbabumk1/SAP-PO) |
 
 ---
 
